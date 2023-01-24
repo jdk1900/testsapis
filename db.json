@@ -1,11 +1,36 @@
 {
-  "posts": [
+  "events": [
+     {
+      "title": "Event 2",
+      "start": "2019-11-25",
+      "end": "2020-01-03",
+      "allDay":true,
+      "id": "2",
+      "classNames":"bg-purple"
+    },
+     {
+      "title": "Event 3",
+      "start": "2020-01-01",
+      "end": "2020-01-15",
+      "allDay":true,
+      "id": "3",
+      "classNames":"bg-orange"
+    },
+     {
+      "title": "Event 4",
+      "start": "2020-01-10",
+      "end": "2020-01-30",
+      "allDay":true,
+      "id": "4",
+      "classNames":"bg-yellow"
+    },
     {
-      "id": 1,
-      "title": "hello"
+      "title": "Event 5",
+      "start": "2020-02-10",
+      "end": "2020-01-17",
+      "allDay":true,
+      "id": "5",
+      "classNames":"bg-purple"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
